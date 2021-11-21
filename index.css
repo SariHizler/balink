@@ -1,0 +1,41 @@
+.timeline-empty{
+    height: 23vh;
+    width: 48vw;
+    display:inline-block;
+}
+.full-page{
+    background-color: black;
+    color: white;
+    width: 100vw;
+    height: 100vh;
+    display:inline-block;
+
+}
+.timeline-middle{
+    width: 0.25vw;
+    background-color: red;
+    height: 25vh;
+}
+.timeline{
+    display:inline-block;
+    height: 100vh;
+}
+.timeline-middle{
+    display:inline-block;
+}
+.timeline-circle{
+    height:1vh;
+    width:1vw;
+  border-radius: 50%;
+   background-color: red;
+}
+.timeline-component {
+    display:inline-block;
+    width: 48vw;
+}
+h3{
+    display:inline-block;
+}
+p{
+    margin: 0px 0px 0px 0px;
+}
